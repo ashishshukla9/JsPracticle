@@ -1,3 +1,5 @@
+// jab aap value na de function param ko to wo default value le sake
+
 function abcd(a=10,b=10,c=0){
     console.log(a,b,c);
 }

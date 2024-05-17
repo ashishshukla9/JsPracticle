@@ -1,0 +1,1 @@
+// When the function in that laaungauge are treated as a variable, you can save them, you can pass them as arguments to another function.
